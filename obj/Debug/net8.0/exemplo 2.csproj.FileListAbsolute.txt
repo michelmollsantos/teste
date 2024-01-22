@@ -1,0 +1,14 @@
+D:\Curso C Dio\exemplo 2\bin\Debug\net8.0\exemplo 2.exe
+D:\Curso C Dio\exemplo 2\bin\Debug\net8.0\exemplo 2.deps.json
+D:\Curso C Dio\exemplo 2\bin\Debug\net8.0\exemplo 2.runtimeconfig.json
+D:\Curso C Dio\exemplo 2\bin\Debug\net8.0\exemplo 2.dll
+D:\Curso C Dio\exemplo 2\bin\Debug\net8.0\exemplo 2.pdb
+D:\Curso C Dio\exemplo 2\obj\Debug\net8.0\exemplo 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C Dio\exemplo 2\obj\Debug\net8.0\exemplo 2.AssemblyInfoInputs.cache
+D:\Curso C Dio\exemplo 2\obj\Debug\net8.0\exemplo 2.AssemblyInfo.cs
+D:\Curso C Dio\exemplo 2\obj\Debug\net8.0\exemplo 2.csproj.CoreCompileInputs.cache
+D:\Curso C Dio\exemplo 2\obj\Debug\net8.0\exemplo 2.dll
+D:\Curso C Dio\exemplo 2\obj\Debug\net8.0\refint\exemplo 2.dll
+D:\Curso C Dio\exemplo 2\obj\Debug\net8.0\exemplo 2.pdb
+D:\Curso C Dio\exemplo 2\obj\Debug\net8.0\exemplo 2.genruntimeconfig.cache
+D:\Curso C Dio\exemplo 2\obj\Debug\net8.0\ref\exemplo 2.dll
